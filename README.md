@@ -1,3 +1,5 @@
-## Reviews Slider build using ReactJS (it automatically slides the reviews after 5seconds)
+## Reviews Slider build using ReactJS.
 
-[Click here to check out live site]()
+It automatically slides the reviews after 5seconds.
+
+[Click here to check out live site](https://reviews-slider-react.netlify.app/)
